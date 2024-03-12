@@ -24,7 +24,7 @@ contract DeployZircuitSepolia is DeployUniversalRouter {
             looksRareRewardsDistributor: UNSUPPORTED_PROTOCOL,
             looksRareToken: UNSUPPORTED_PROTOCOL,
             v2Factory: UNSUPPORTED_PROTOCOL,
-            v3Factory: 0x7610a9F3b98705B578AE8142Fd107813ebA42139,
+            v3Factory: 0x1d00812F3090953748523b825d3eAed8d1756EB1,
             pairInitCodeHash: BYTES32_ZERO,
             poolInitCodeHash: 0xe34f199b19b2b4f47f68442619d555527d244f78a3297ea89325f843f87b8b54
         });
