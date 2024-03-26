@@ -7,7 +7,7 @@ import {RouterParameters} from 'contracts/base/RouterImmutables.sol';
 contract DeployZircuitSepolia is DeployUniversalRouter {
     function setUp() public override {
         params = RouterParameters({
-            permit2: 0x000000000022D473030F116dDEE9F6B43aC78BA3,
+            permit2: 0x57a2aA8C06dCA6D383Aa5618db4a3EcFfE42A654,
             weth9: 0xB624103Eb622d655dd834B694Aa6EA0363f2A156,
             seaportV1_5: UNSUPPORTED_PROTOCOL,
             seaportV1_4: UNSUPPORTED_PROTOCOL,
